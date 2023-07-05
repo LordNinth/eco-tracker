@@ -55,7 +55,7 @@ export const AboutUs = () => {
                 sx={{ width: 112, height: 112, marginBottom: 2 }}
               />
               <Typography variant="caption" sx={{ textAlign: "center" }}>
-                Francis Ssemwanga
+                Kourtney Queeley
               </Typography>
             </Link>
           </Stack>
