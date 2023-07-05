@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 
 import FrancisSemwanga from "../images/francis-semwanga.png";
 import ViktoriaMoskalenko from "../images/viktoria-moskalenko.jpg";
+import KourtneyQueeley from "../images/kourtney-queeley.jpg";
 
 export const AboutUs = () => {
   return (
@@ -47,10 +48,10 @@ export const AboutUs = () => {
           </Stack>
 
           <Stack alignItems="center" spacing={2}>
-            <Link href="https://github.com/f-ssemwanga">
+            <Link href="https://github.com/kourtneyq2">
               <Avatar
-                alt="Francis Ssemwanga"
-                src={FrancisSemwanga}
+                alt="Kourtney Queeley"
+                src={KourtneyQueeley}
                 sx={{ width: 112, height: 112, marginBottom: 2 }}
               />
               <Typography variant="caption" sx={{ textAlign: "center" }}>
